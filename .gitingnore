@@ -1,6 +1,6 @@
-__pycache__
+__pycache__/
 *.pyc
-.venv
-data
-files
-ui/node_modules
+.venv/
+data/
+files/
+ui/node_modules/
